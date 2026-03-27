@@ -5,10 +5,10 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 1. 	Hardware – PCs
 2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
-Step1 : Import NumPy and create matrix A.
-Step 2: Find eigenvalues and eigenvectors of A.
-Step 3: Store them in variables.
-Step 4: Print the result.
+#Step1 : Import NumPy and create matrix A.
+#Step 2: Find eigenvalues and eigenvectors of A.
+#Step 3: Store them in variables.
+#Step 4: Print the result.
 ## Program:
 import numpy as np
 
